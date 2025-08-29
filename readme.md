@@ -47,4 +47,4 @@ A simple PHP-based image gallery application that displays and manages image col
 
 ## License
 
-This project is open source and available under the
+This project is open source and available under the MIT License.
